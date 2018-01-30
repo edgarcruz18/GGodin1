@@ -1,7 +1,7 @@
 package ca.qc.cgodin;
 
 public class triangle {
-
+   
 	/*public static void main(String[] args) {
 		final int HAUTEUR = 5; // boucle extérieure pour faire HAUTEUR lignes
 		String ligne="";

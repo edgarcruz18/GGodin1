@@ -3,7 +3,7 @@ package ca.qc.cgodin;
 import javax.swing.JOptionPane;
 
 public class meteo {
-
+      
 	/*public static void main(String[] args) {
 		int temperature;
 		String saisie;
